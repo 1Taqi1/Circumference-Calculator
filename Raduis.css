@@ -67,3 +67,10 @@ input:focus{
   transform: scale(1.05);
   color: white;
 }
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
